@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(204, 255, 137);
+  max-width: 600px;
+}
+h1,
+p,
+div {
+  text-align: center;
+}
+img {
+  max-width: 200px;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+}
+.link {
+  text-align: center;
+  color: green;
+  margin-right: 25px;
+}
