@@ -18,3 +18,8 @@ img {
   color: green;
   margin-right: 25px;
 }
+.main {
+  text-decoration: none;
+  color: green;
+  text-align: center;
+}
